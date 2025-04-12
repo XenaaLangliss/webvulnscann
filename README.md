@@ -1,7 +1,9 @@
 # Web Vulnerability Scanner v1.0
 
 ---
+
 Advanced web application security scanner with built-in exploitation capabilities for penetration testers and security researchers.
+
 ---
 
 ## 🔍 Features
