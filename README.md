@@ -40,7 +40,7 @@ Advanced web application security scanner with built-in exploitation capabilitie
 ### Setup
 ```bash
 # Clone repository
-git clone https://github.com/XenaaLangliss/webvulnscann
+git clone https://github.com/XenaaLangliss/webvulnscann.git
 cd webvulnscann
 
 # Install dependencies
