@@ -1,7 +1,5 @@
 
-# Ultimate Web Vulnerability Scanner v3.0
-
-![Scanner Banner](assets/banner.png)
+# Web Vulnerability Scanner v1.0
 
 Advanced web application security scanner with built-in exploitation capabilities for penetration testers and security researchers.
 
@@ -41,8 +39,8 @@ Advanced web application security scanner with built-in exploitation capabilitie
 ### Setup
 ```bash
 # Clone repository
-git clone https://github.com/yourusername/ultimate-web-scanner.git
-cd ultimate-web-scanner
+git clone https://github.com/XenaaLangliss/webvulnscann
+cd webvulnscann
 
 # Install dependencies
 pip install -r requirements.txt
